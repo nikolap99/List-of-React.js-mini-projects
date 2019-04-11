@@ -13,3 +13,7 @@ List of all of my mini-projects made with React.js
 ### Photo Finder with Pixabay API
 **Live:** https://photo-finder.netlify.com/ <br/>
 **Code:** https://github.com/nikolap99/pixabay-image-finder
+
+### Weight Converter App
+**Live:** https://weight-converter-react.netlify.com/ <br/>
+**Code:** https://github.com/nikolap99/weight-converter
