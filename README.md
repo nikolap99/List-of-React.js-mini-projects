@@ -17,3 +17,7 @@ List of all of my mini-projects made with React.js with the purpose of practicin
 ### Weight Converter App
 **Live:** https://weight-converter-react.netlify.com/ <br/>
 **Code:** https://github.com/nikolap99/weight-converter
+
+### Snake Game
+**Live:** https://simple-snake-game-react.netlify.com/ <br/>
+**Code:** https://github.com/nikolap99/snake-game
