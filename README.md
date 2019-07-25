@@ -1,11 +1,6 @@
 # List of React.js mini projects
 List of all of my side-projects made with React.js with the purpose of practicing and learning.
 
-<p align="center">
-  <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="20%">
-</p>
-<br/>
-
 
 ### Filtered List
 **Live:** https://filterable-list.netlify.com/ <br/>
