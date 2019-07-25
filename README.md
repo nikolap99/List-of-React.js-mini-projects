@@ -1,5 +1,5 @@
 # List of React.js mini projects
-List of all of my mini-projects made with React.js with the purpose of practicing and learning
+List of all of my side-projects made with React.js with the purpose of practicing and learning.
 
 ### Filtered List
 **Live:** https://filterable-list.netlify.com/ <br/>
